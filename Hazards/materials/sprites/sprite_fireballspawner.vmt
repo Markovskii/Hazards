@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sprites/sprite_fireballspawner"
+	"$translucent" 1
+}
